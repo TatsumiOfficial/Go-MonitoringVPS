@@ -20,7 +20,6 @@ Untuk menginstall dependencies yang dibutuhkan, Anda bisa menjalankan perintah b
 npm install
 
 Jika Anda menggunakan npm versi 6 atau yang lebih baru, Anda juga dapat menginstall dependencies dengan menambahkan flag `--save` atau `--save-prod`, seperti berikut ini:
-
 npm install --save node-telegram-bot-api
 npm install --save-prod node-telegram-bot-api
 
