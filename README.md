@@ -11,8 +11,20 @@ Script ini dapat digunakan untuk memonitor penggunaan CPU dan RAM yang digunakan
 
 ## Dependencies
 
+Script ini membutuhkan package berikut ini:
+
 - [node-telegram-bot-api](https://www.npmjs.com/package/node-telegram-bot-api)
 
-## Lisensi
+Untuk menginstall dependencies yang dibutuhkan, Anda bisa menjalankan perintah berikut ini pada terminal atau command prompt:
 
-Script ini tersedia di bawah lisensi MIT. Lihat file [LICENSE](LICENSE) untuk lebih jelasnya.
+npm install
+
+Jika Anda menggunakan npm versi 6 atau yang lebih baru, Anda juga dapat menginstall dependencies dengan menambahkan flag `--save` atau `--save-prod`, seperti berikut ini:
+
+npm install --save node-telegram-bot-api
+npm install --save-prod node-telegram-bot-api
+
+
+
+## Lisensi
+Script ini tersedia di bawah lisensi MIT. Lihat file [LICENSE](LICENSE)
