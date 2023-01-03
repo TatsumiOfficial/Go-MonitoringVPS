@@ -1,0 +1,1 @@
+# Go-Spesifikasi-RAM-CPU
